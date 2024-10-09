@@ -1,0 +1,62 @@
+body {
+    font-size: 18px;
+    line-height: 2rem;
+    margin: 20px;
+    padding: 20px;
+    font-family: Beatrice,"Helvetica Neue",Arial,sans-serif;
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    position: relative;
+    min-height: 100vh;
+    color: #000;
+}
+.co-height {
+  margin-top: 200px;
+}
+.form-select {
+  font-family: serif;
+  font-size: 18px;
+}
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 26px;
+  width: 70%;
+  padding: 10px;
+  margin: 0;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgba(197, 162, 255, 0.568);
+  border: 2px solid white;
+  
+}
+
+main {
+  padding-top: 50px;
+  font-size: 24px;
+  margin: auto;
+}
+
+select {
+    appearance: none;
+    /* Additional resets for further consistency */
+    background-color: transparent;
+    border: none;
+    padding: 0 1em 0 0;
+    margin: 0;
+    width: 25%;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: inherit;
+    line-height: inherit;
+    text-align: center;
+    
+  }
+
+
+
+
+
+
+
+
